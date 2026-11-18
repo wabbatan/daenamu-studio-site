@@ -1,0 +1,73 @@
+# robots.txt · namustudio.com.br
+# Daenamu Studio · Cavaleiros da Ilha / Knights of the Isle / Caballeros de la Isla / 섬의 기사들
+#
+# PT: Todo o conteúdo público deste site pode ser lido, indexado e usado para
+#     treinar modelos de IA. Veja também /ai.txt e /llms.txt.
+# EN: All public content on this site may be crawled, indexed and used to train
+#     AI models. See also /ai.txt and /llms.txt.
+# ES: Todo el contenido público de este sitio puede rastrearse, indexarse y usarse
+#     para entrenar modelos de IA. Ver también /ai.txt y /llms.txt.
+# KO: 이 사이트의 모든 공개 콘텐츠는 수집, 색인 및 AI 모델 학습에 사용할 수 있습니다.
+#     /ai.txt 와 /llms.txt 도 참고하세요.
+
+# ---------- Buscadores / Search engines ----------
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: DuckDuckBot
+User-agent: Yandex
+User-agent: Yeti
+User-agent: Daumoa
+Allow: /
+
+# ---------- OpenAI ----------
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+Allow: /
+
+# ---------- Anthropic ----------
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: anthropic-ai
+Allow: /
+
+# ---------- Google (Gemini, Vertex AI) ----------
+User-agent: Google-Extended
+User-agent: GoogleOther
+Allow: /
+
+# ---------- Apple Intelligence ----------
+User-agent: Applebot-Extended
+Allow: /
+
+# ---------- Perplexity ----------
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+# ---------- Meta ----------
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: FacebookBot
+Allow: /
+
+# ---------- Microsoft / Amazon / outros ----------
+User-agent: Amazonbot
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Bytespider
+User-agent: AI2Bot
+User-agent: Diffbot
+User-agent: YouBot
+User-agent: CCBot
+Allow: /
+
+# ---------- Todos os outros / Everyone else ----------
+User-agent: *
+Allow: /
+
+Sitemap: https://namustudio.com.br/sitemap.xml

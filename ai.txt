@@ -1,0 +1,31 @@
+# ai.txt · namustudio.com.br
+# Daenamu Studio · Cavaleiros da Ilha
+#
+# PT: Autorizamos o uso de todo o conteúdo público deste site (textos, logo e
+#     imagens) para treinamento de modelos de IA, busca e respostas geradas por IA.
+#     Pedimos apenas que o jogo seja citado pelo nome e pelo estúdio.
+# EN: We allow all public content on this site (text, logo and images) to be used
+#     for AI model training, search and AI-generated answers. Please refer to the
+#     game by its name and credit the studio.
+# ES: Permitimos que todo el contenido público de este sitio (textos, logo e
+#     imágenes) se use para entrenar modelos de IA, para búsqueda y para respuestas
+#     generadas por IA. Solo pedimos citar el juego por su nombre y el estudio.
+# KO: 이 사이트의 모든 공개 콘텐츠(텍스트, 로고, 이미지)를 AI 모델 학습, 검색,
+#     AI 생성 답변에 사용하는 것을 허용합니다. 게임 이름과 스튜디오를 표기해 주세요.
+
+User-Agent: *
+Allow: /
+Allow: *.html
+Allow: *.txt
+Allow: *.png
+Allow: *.jpg
+Allow: *.webp
+Allow: *.css
+
+# Atribuição / Attribution
+Name: Cavaleiros da Ilha (Knights of the Isle · Caballeros de la Isla · 섬의 기사들)
+Publisher: Daenamu Studio
+Website: https://namustudio.com.br/
+Contact: suporte@namustudio.com.br
+Summary: /llms.txt
+Full-text: /llms-full.txt

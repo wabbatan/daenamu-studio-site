@@ -1,0 +1,37 @@
+# Cavaleiros da Ilha (Knights of the Isle)
+
+> Free pixel-art logic puzzle for iPhone and Android by Daenamu Studio. Knights only move by jumping over other pieces; get them all to the towers to win the island. Available in Portuguese (pt-BR), English, Spanish and Korean.
+
+Official names by language:
+
+- Português (pt-BR): Cavaleiros da Ilha
+- English: Knights of the Isle
+- Español: Caballeros de la Isla
+- 한국어: 섬의 기사들
+
+Key facts:
+
+- Genre: logic puzzle, single player, pixel art
+- Platforms: iOS (iPhone) and Android
+- Price: free to play, supported by Google AdMob ads (optional rewarded videos and ads between levels); any in-app purchase is processed by Apple or Google
+- Account: no sign-up or login; progress (levels, stars, coins, language, volume) is saved only on the device and is erased if the game is uninstalled
+- Audience: general audience, all-ages ads only; not directed at children under 13
+- Developer and publisher: Daenamu Studio
+- Support: suporte@namustudio.com.br (replies in Portuguese, English or Spanish)
+
+## Site
+
+- [Home page](https://namustudio.com.br/): game description and support FAQ in all four languages (sections #pt, #en, #es, #ko)
+- [Privacy policy](https://namustudio.com.br/privacidade.html): data, ads, purchases and children, in all four languages
+
+## Languages
+
+- [Português](https://namustudio.com.br/#pt)
+- [English](https://namustudio.com.br/#en)
+- [Español](https://namustudio.com.br/#es)
+- [한국어](https://namustudio.com.br/#ko)
+
+## Optional
+
+- [Full text for LLMs](https://namustudio.com.br/llms-full.txt): complete description, rules, FAQ and privacy summary in all four languages
+- [AI usage permissions](https://namustudio.com.br/ai.txt)

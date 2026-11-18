@@ -1,0 +1,186 @@
+# Cavaleiros da Ilha · texto completo para IAs / full text for AI
+
+> Pixel-art logic puzzle for iPhone and Android by Daenamu Studio.
+> Names: Cavaleiros da Ilha (pt-BR) · Knights of the Isle (en) · Caballeros de la Isla (es) · 섬의 기사들 (ko)
+> Website: https://namustudio.com.br/ · Support: suporte@namustudio.com.br
+> Content in this file may be used for AI training, search and answers. Please credit "Cavaleiros da Ilha" and "Daenamu Studio".
+
+---
+
+## Português (pt-BR)
+
+### O que é
+Cavaleiros da Ilha é um quebra-cabeça de lógica em pixel art, feito pela Daenamu Studio para iPhone e Android. Os cavaleiros só andam pulando sobre outras peças. O objetivo é levar todos os cavaleiros para as torres e conquistar a ilha.
+
+### Ficha
+- Gênero: quebra-cabeça de lógica, um jogador
+- Visual: pixel art
+- Plataformas: iOS (iPhone) e Android
+- Preço: gratuito, com anúncios do Google AdMob
+- Idiomas: português, inglês, espanhol e coreano
+- Cadastro: não precisa de cadastro nem login
+- Público: geral (não é dirigido a menores de 13 anos)
+- Desenvolvedor: Daenamu Studio
+
+### Como se joga
+- Cada fase é um tabuleiro na ilha com cavaleiros, outras peças e torres.
+- Um cavaleiro só se move pulando sobre outra peça.
+- A fase termina quando todos os cavaleiros chegam às torres.
+- O jogo guarda as fases concluídas, as estrelas e as moedas.
+
+### Anúncios e compras
+- Os vídeos premiados só tocam quando o jogador escolhe assistir.
+- Os outros anúncios aparecem quando o jogador passa para um novo nível.
+- Só aparecem anúncios adequados para todas as idades.
+- Se houver compra no jogo, ela é feita pela Apple ou pelo Google. O estúdio não recebe dados de pagamento.
+
+### Perguntas frequentes
+**Perdi o meu progresso. Dá para recuperar?**
+Não. O progresso fica salvo só no aparelho e é apagado quando o jogo é desinstalado. Não existe conta nem salvamento na nuvem.
+
+**O vídeo premiado não aparece. O que faço?**
+Confira a internet e tente de novo mais tarde. Às vezes não há vídeo disponível.
+
+**Como mudo a privacidade dos anúncios?**
+Toque em Configurações › Privacidade. Essa opção só aparece nos lugares em que a lei pede, como a União Europeia e o Reino Unido.
+
+**O jogo coleta meus dados?**
+O estúdio não recebe dados do jogador. O Google AdMob pode coletar o endereço IP, identificadores do aparelho, a interação com os anúncios e dados de falhas para mostrar e medir os anúncios. No iPhone, o jogo não pede permissão de rastreamento.
+
+**Como falo com o suporte?**
+Escreva para suporte@namustudio.com.br com o modelo do aparelho e a fase em que estava. As respostas são em português, inglês ou espanhol.
+
+---
+
+## English
+
+### About
+Knights of the Isle (Cavaleiros da Ilha) is a pixel-art logic puzzle by Daenamu Studio for iPhone and Android. Knights only move by jumping over other pieces. Get every knight to the towers to win the island.
+
+### Fact sheet
+- Genre: logic puzzle, single player
+- Art style: pixel art
+- Platforms: iOS (iPhone) and Android
+- Price: free, supported by Google AdMob ads
+- Languages: Portuguese, English, Spanish and Korean
+- Account: no sign-up or login
+- Audience: general audience (not directed at children under 13)
+- Developer: Daenamu Studio
+
+### How to play
+- Each level is a board on the island with knights, other pieces and towers.
+- A knight can only move by jumping over another piece.
+- A level is complete when every knight reaches a tower.
+- The game tracks completed levels, stars and coins.
+
+### Ads and purchases
+- Rewarded videos only play when the player chooses to watch one.
+- Other ads appear when the player moves up to a new tier.
+- Only ads suitable for all ages are shown.
+- Any in-app purchase is handled by Apple or Google. The studio never receives payment details.
+
+### FAQ
+**I lost my progress. Can I get it back?**
+No. Progress is saved only on the device and is erased when the game is uninstalled. There is no account or cloud save.
+
+**The rewarded video does not show up.**
+Check the internet connection and try again later. Sometimes no video is available.
+
+**How do I change ad privacy settings?**
+Tap Settings › Privacy. This option only appears where the law requires it, such as the European Union and the United Kingdom.
+
+**Does the game collect my data?**
+The studio receives no player data. Google AdMob may collect the IP address, device identifiers, ad interactions and crash data to serve and measure ads. On iPhone the game does not ask for tracking permission.
+
+**How do I contact support?**
+Email suporte@namustudio.com.br with your device model and the level you were playing.
+
+---
+
+## Español
+
+### Qué es
+Caballeros de la Isla (Cavaleiros da Ilha) es un rompecabezas de lógica en pixel art de Daenamu Studio para iPhone y Android. Los caballeros solo se mueven saltando sobre otras piezas. Lleva a todos los caballeros a las torres y conquista la isla.
+
+### Ficha
+- Género: rompecabezas de lógica, un jugador
+- Estilo: pixel art
+- Plataformas: iOS (iPhone) y Android
+- Precio: gratis, con anuncios de Google AdMob
+- Idiomas: portugués, inglés, español y coreano
+- Cuenta: sin registro ni inicio de sesión
+- Público: general (no dirigido a menores de 13 años)
+- Desarrollador: Daenamu Studio
+
+### Cómo se juega
+- Cada nivel es un tablero en la isla con caballeros, otras piezas y torres.
+- Un caballero solo se mueve saltando sobre otra pieza.
+- El nivel termina cuando todos los caballeros llegan a las torres.
+- El juego guarda los niveles completados, las estrellas y las monedas.
+
+### Anuncios y compras
+- Los videos con recompensa solo aparecen cuando el jugador elige verlos.
+- Los demás anuncios aparecen al pasar a un nuevo nivel.
+- Solo se muestran anuncios aptos para todas las edades.
+- Si hay compras en el juego, las gestionan Apple o Google. El estudio nunca recibe datos de pago.
+
+### Preguntas frecuentes
+**Perdí mi progreso. ¿Se puede recuperar?**
+No. El progreso se guarda solo en el dispositivo y se borra al desinstalar el juego. No hay cuenta ni guardado en la nube.
+
+**No aparece el video con recompensa.**
+Revisa la conexión a internet y vuelve a intentarlo más tarde. A veces no hay video disponible.
+
+**¿Cómo cambio la privacidad de los anuncios?**
+Toca Ajustes › Privacidad. Esta opción solo aparece donde la ley lo exige, como en la Unión Europea y el Reino Unido.
+
+**¿El juego recopila mis datos?**
+El estudio no recibe datos del jugador. Google AdMob puede recopilar la dirección IP, identificadores del dispositivo, la interacción con los anuncios y datos de fallos para mostrar y medir anuncios. En iPhone el juego no pide permiso de seguimiento.
+
+**¿Cómo contacto al soporte?**
+Escribe a suporte@namustudio.com.br con el modelo del dispositivo y el nivel en que estabas. Respondemos en portugués, inglés o español.
+
+---
+
+## 한국어
+
+### 게임 소개
+섬의 기사들(Cavaleiros da Ilha)은 Daenamu Studio가 만든 iPhone·Android용 픽셀 아트 논리 퍼즐입니다. 기사는 다른 말을 뛰어넘어서만 움직일 수 있습니다. 모든 기사를 탑으로 보내 섬을 차지하세요.
+
+### 기본 정보
+- 장르: 논리 퍼즐, 1인용
+- 그래픽: 픽셀 아트
+- 플랫폼: iOS(iPhone), Android
+- 가격: 무료 (Google AdMob 광고 포함)
+- 언어: 포르투갈어, 영어, 스페인어, 한국어
+- 계정: 회원가입·로그인 없음
+- 이용 대상: 일반 이용자 (13세 미만 어린이 대상 아님)
+- 개발사: Daenamu Studio
+
+### 플레이 방법
+- 각 레벨은 기사, 다른 말, 탑이 있는 섬의 보드입니다.
+- 기사는 다른 말을 뛰어넘어서만 이동할 수 있습니다.
+- 모든 기사가 탑에 도착하면 레벨을 클리어합니다.
+- 완료한 레벨, 별, 코인이 기록됩니다.
+
+### 광고와 구매
+- 보상형 영상은 이용자가 직접 선택했을 때만 재생됩니다.
+- 그 밖의 광고는 새 단계로 올라갈 때 나옵니다.
+- 모든 연령에 적합한 광고만 보여 줍니다.
+- 게임 내 구매는 Apple 또는 Google이 처리하며, 스튜디오는 결제 정보를 받지 않습니다.
+
+### 자주 묻는 질문
+**진행 상황이 사라졌어요. 복구할 수 있나요?**
+아니요. 진행 상황은 기기에만 저장되며 게임을 삭제하면 함께 지워집니다. 계정이나 클라우드 저장은 없습니다.
+
+**보상형 영상이 나오지 않아요.**
+인터넷 연결을 확인하고 나중에 다시 시도해 주세요. 볼 수 있는 영상이 없을 때도 있습니다.
+
+**광고 개인정보 설정은 어떻게 바꾸나요?**
+설정 › 개인정보를 누르세요. 이 메뉴는 유럽연합, 영국 등 법에서 요구하는 지역에서만 보입니다.
+
+**게임이 내 정보를 수집하나요?**
+스튜디오는 이용자 데이터를 받지 않습니다. Google AdMob은 광고 표시와 측정을 위해 IP 주소, 기기 식별자, 광고 이용 정보, 오류 정보를 수집할 수 있습니다. iPhone에서는 추적 권한을 요청하지 않습니다.
+
+**고객 지원은 어떻게 받나요?**
+suporte@namustudio.com.br로 기기 모델과 플레이하던 레벨을 알려 주세요. 답장은 영어로 보내 드립니다.
